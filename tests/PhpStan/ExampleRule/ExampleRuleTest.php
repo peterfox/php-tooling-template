@@ -2,9 +2,9 @@
 
 namespace VendorName\Skeleton\Tests;
 
-use VendorName\Skeleton\PhpStan\ExampleRule;
 use PHPStan\Rules\Rule;
 use PHPStan\Testing\RuleTestCase;
+use VendorName\Skeleton\PhpStan\ExampleRule;
 
 class ExampleRuleTest extends RuleTestCase
 {
